@@ -1,0 +1,8 @@
+D:\DotNET\csharp-learning-journey\01-csharp-basics\bin\Debug\01-csharp-basics.exe.config
+D:\DotNET\csharp-learning-journey\01-csharp-basics\bin\Debug\01-csharp-basics.exe
+D:\DotNET\csharp-learning-journey\01-csharp-basics\bin\Debug\01-csharp-basics.pdb
+D:\DotNET\csharp-learning-journey\01-csharp-basics\obj\Debug\01-csharp-basics.csproj.AssemblyReference.cache
+D:\DotNET\csharp-learning-journey\01-csharp-basics\obj\Debug\01-csharp-basics.csproj.CoreCompileInputs.cache
+D:\DotNET\csharp-learning-journey\01-csharp-basics\obj\Debug\01-csharp-basics.exe
+D:\DotNET\csharp-learning-journey\01-csharp-basics\obj\Debug\01-csharp-basics.pdb
+D:\DotNET\csharp-learning-journey\01-csharp-basics\obj\Debug\01-csharp-basics.exe.config
