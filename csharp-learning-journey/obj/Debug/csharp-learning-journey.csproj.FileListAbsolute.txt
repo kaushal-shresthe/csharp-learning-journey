@@ -1,0 +1,8 @@
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\bin\Debug\csharp-learning-journey.exe.config
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\bin\Debug\csharp-learning-journey.exe
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\bin\Debug\csharp-learning-journey.pdb
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\obj\Debug\csharp-learning-journey.csproj.AssemblyReference.cache
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\obj\Debug\csharp-learning-journey.csproj.CoreCompileInputs.cache
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\obj\Debug\csharp-learning-journey.exe
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\obj\Debug\csharp-learning-journey.pdb
+D:\DotNET\csharp-learning-journey\csharp-learning-journey\obj\Debug\csharp-learning-journey.exe.config
