@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.SqlServer.Server;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +11,18 @@ namespace _01_csharp_basics
     {
         static void Main(string[] args)
         {
-            ConsoleClass.Run();
+            // Console Class in C#
+            //ConsoleClass.Run();
 
-            InputOutput.Run();
-            InputOutput.StudentMarksCalc();
+            // Input Output in C#
+            //InputOutput.Run();
+            //InputOutput.StudentMarksCalc();
+
+            // Data Types in C#
+            DataTypes.Run();
+            DataTypes.ImpactofDataTypes();
+            DataTypes.CompareIntVsDecimal();
+            //DataTypes.PointerDataType();
         }
     }
 }
